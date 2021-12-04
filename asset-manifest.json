@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sinterquiz/static/css/main.a84e2f25.chunk.css",
+    "main.css": "/sinterquiz/static/css/main.a363222e.chunk.css",
     "main.js": "/sinterquiz/static/js/main.da6bb2d3.chunk.js",
     "main.js.map": "/sinterquiz/static/js/main.da6bb2d3.chunk.js.map",
     "runtime-main.js": "/sinterquiz/static/js/runtime-main.9a1bd3a2.js",
@@ -10,7 +10,7 @@
     "static/js/3.b69d77da.chunk.js": "/sinterquiz/static/js/3.b69d77da.chunk.js",
     "static/js/3.b69d77da.chunk.js.map": "/sinterquiz/static/js/3.b69d77da.chunk.js.map",
     "index.html": "/sinterquiz/index.html",
-    "static/css/main.a84e2f25.chunk.css.map": "/sinterquiz/static/css/main.a84e2f25.chunk.css.map",
+    "static/css/main.a363222e.chunk.css.map": "/sinterquiz/static/css/main.a363222e.chunk.css.map",
     "static/js/2.7e0ef620.chunk.js.LICENSE.txt": "/sinterquiz/static/js/2.7e0ef620.chunk.js.LICENSE.txt",
     "static/media/logo.4d89d5a9.png": "/sinterquiz/static/media/logo.4d89d5a9.png",
     "static/media/oof.b073d70f.mp3": "/sinterquiz/static/media/oof.b073d70f.mp3",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.9a1bd3a2.js",
     "static/js/2.7e0ef620.chunk.js",
-    "static/css/main.a84e2f25.chunk.css",
+    "static/css/main.a363222e.chunk.css",
     "static/js/main.da6bb2d3.chunk.js"
   ]
 }
