@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sinterquiz/static/css/main.6957324d.chunk.css",
+    "main.js": "/sinterquiz/static/js/main.599d38f1.chunk.js",
+    "main.js.map": "/sinterquiz/static/js/main.599d38f1.chunk.js.map",
+    "runtime-main.js": "/sinterquiz/static/js/runtime-main.29a8dddf.js",
+    "runtime-main.js.map": "/sinterquiz/static/js/runtime-main.29a8dddf.js.map",
+    "static/js/2.40e694f3.chunk.js": "/sinterquiz/static/js/2.40e694f3.chunk.js",
+    "static/js/2.40e694f3.chunk.js.map": "/sinterquiz/static/js/2.40e694f3.chunk.js.map",
+    "static/js/3.2f0a3d2e.chunk.js": "/sinterquiz/static/js/3.2f0a3d2e.chunk.js",
+    "static/js/3.2f0a3d2e.chunk.js.map": "/sinterquiz/static/js/3.2f0a3d2e.chunk.js.map",
+    "index.html": "/sinterquiz/index.html",
+    "static/css/main.6957324d.chunk.css.map": "/sinterquiz/static/css/main.6957324d.chunk.css.map",
+    "static/js/2.40e694f3.chunk.js.LICENSE.txt": "/sinterquiz/static/js/2.40e694f3.chunk.js.LICENSE.txt",
+    "static/media/logo.4d89d5a9.png": "/sinterquiz/static/media/logo.4d89d5a9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29a8dddf.js",
+    "static/js/2.40e694f3.chunk.js",
+    "static/css/main.6957324d.chunk.css",
+    "static/js/main.599d38f1.chunk.js"
+  ]
+}
