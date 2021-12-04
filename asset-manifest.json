@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/sinterquiz/static/css/main.6957324d.chunk.css",
-    "main.js": "/sinterquiz/static/js/main.599d38f1.chunk.js",
-    "main.js.map": "/sinterquiz/static/js/main.599d38f1.chunk.js.map",
-    "runtime-main.js": "/sinterquiz/static/js/runtime-main.29a8dddf.js",
-    "runtime-main.js.map": "/sinterquiz/static/js/runtime-main.29a8dddf.js.map",
-    "static/js/2.40e694f3.chunk.js": "/sinterquiz/static/js/2.40e694f3.chunk.js",
-    "static/js/2.40e694f3.chunk.js.map": "/sinterquiz/static/js/2.40e694f3.chunk.js.map",
-    "static/js/3.2f0a3d2e.chunk.js": "/sinterquiz/static/js/3.2f0a3d2e.chunk.js",
-    "static/js/3.2f0a3d2e.chunk.js.map": "/sinterquiz/static/js/3.2f0a3d2e.chunk.js.map",
+    "main.css": "/sinterquiz/static/css/main.a84e2f25.chunk.css",
+    "main.js": "/sinterquiz/static/js/main.da6bb2d3.chunk.js",
+    "main.js.map": "/sinterquiz/static/js/main.da6bb2d3.chunk.js.map",
+    "runtime-main.js": "/sinterquiz/static/js/runtime-main.9a1bd3a2.js",
+    "runtime-main.js.map": "/sinterquiz/static/js/runtime-main.9a1bd3a2.js.map",
+    "static/js/2.7e0ef620.chunk.js": "/sinterquiz/static/js/2.7e0ef620.chunk.js",
+    "static/js/2.7e0ef620.chunk.js.map": "/sinterquiz/static/js/2.7e0ef620.chunk.js.map",
+    "static/js/3.b69d77da.chunk.js": "/sinterquiz/static/js/3.b69d77da.chunk.js",
+    "static/js/3.b69d77da.chunk.js.map": "/sinterquiz/static/js/3.b69d77da.chunk.js.map",
     "index.html": "/sinterquiz/index.html",
-    "static/css/main.6957324d.chunk.css.map": "/sinterquiz/static/css/main.6957324d.chunk.css.map",
-    "static/js/2.40e694f3.chunk.js.LICENSE.txt": "/sinterquiz/static/js/2.40e694f3.chunk.js.LICENSE.txt",
-    "static/media/logo.4d89d5a9.png": "/sinterquiz/static/media/logo.4d89d5a9.png"
+    "static/css/main.a84e2f25.chunk.css.map": "/sinterquiz/static/css/main.a84e2f25.chunk.css.map",
+    "static/js/2.7e0ef620.chunk.js.LICENSE.txt": "/sinterquiz/static/js/2.7e0ef620.chunk.js.LICENSE.txt",
+    "static/media/logo.4d89d5a9.png": "/sinterquiz/static/media/logo.4d89d5a9.png",
+    "static/media/oof.b073d70f.mp3": "/sinterquiz/static/media/oof.b073d70f.mp3",
+    "static/media/yay.db5562ac.mp3": "/sinterquiz/static/media/yay.db5562ac.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.29a8dddf.js",
-    "static/js/2.40e694f3.chunk.js",
-    "static/css/main.6957324d.chunk.css",
-    "static/js/main.599d38f1.chunk.js"
+    "static/js/runtime-main.9a1bd3a2.js",
+    "static/js/2.7e0ef620.chunk.js",
+    "static/css/main.a84e2f25.chunk.css",
+    "static/js/main.da6bb2d3.chunk.js"
   ]
 }
